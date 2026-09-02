@@ -1,0 +1,48 @@
+# LumeVOD
+
+**Films à la demande (Xtream) pour Android TV** — simple, rapide, pensé pour la télécommande.
+Compagnon de [LumeTV](https://github.com/Celtiore/lume-tv) (le direct) : même compte Xtream,
+même clé de signature, deux apps côte à côte sur le launcher.
+
+> ⚠️ **LumeVOD ne contient aucun film ni aucun contenu.** C'est uniquement un lecteur :
+> tu dois renseigner ta propre source Xtream (à laquelle tu as légalement accès).
+
+---
+
+## 📥 Téléchargement
+
+➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeVOD-x.y.z.apk`.
+
+Version actuelle : **1.0.0**.
+
+## ✨ Fonctionnalités (v1.0.0)
+
+- 🔑 **Connexion Xtream** (saisie guidée au premier lancement — import depuis LumeTV à venir)
+- 🗂️ **Catégories de films** et **grille de posters**
+- 🎬 **Fiche film** : synopsis, durée, note, genre, réalisation, casting
+- ▶️ **Lecture plein écran** à la télécommande (OK = pause, ±10 s, ±60 s)
+- 🔌 **Connexion unique respectée** : passer en arrière-plan coupe le flux, LumeTV peut
+  reprendre le direct (et inversement)
+- 🔄 **Mises à jour intégrées** (depuis les Releases GitHub)
+
+## 🗺️ Prochainement
+
+- Import des identifiants depuis LumeTV (sans ressaisie)
+- Reprise de lecture (« Reprendre à … »)
+- Affiches et synopsis enrichis (TMDB)
+- Une app dédiée aux séries : **LumeSeries**
+
+## 🔧 Installation
+
+1. Sur la box : autoriser l'installation d'applications inconnues pour ton navigateur ou
+   ton gestionnaire de fichiers.
+2. Télécharger `LumeVOD-x.y.z.apk` depuis les Releases et l'ouvrir.
+3. Au premier lancement : host, utilisateur, mot de passe Xtream (Entrée passe au champ
+   suivant).
+
+Les mises à jour suivantes sont proposées **dans l'app** au démarrage.
+
+## 🔐 Vie privée
+
+Aucune télémétrie. Les identifiants Xtream sont stockés chiffrés sur l'appareil, exclus des
+sauvegardes cloud. Le code source vit dans le dépôt `Iptv` (monorepo LumeTV / LumeVOD).
