@@ -13,12 +13,13 @@ même clé de signature, deux apps côte à côte sur le launcher.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeVOD-x.y.z.apk`.
 
-Version actuelle : **1.0.0**.
+Version actuelle : **1.0.1**.
 
-## ✨ Fonctionnalités (v1.0.0)
+## ✨ Fonctionnalités (v1.0.1)
 
 - 🔑 **Connexion Xtream** (saisie guidée au premier lancement — import depuis LumeTV à venir)
-- 🗂️ **Catégories de films** et **grille de posters**
+- 🗂️ **Catalogue à deux colonnes** : catégories à gauche, affiches de la catégorie à droite,
+  recherche dans les catégories et dans les films affichés
 - 🎬 **Fiche film** : synopsis, durée, note, genre, réalisation, casting
 - ▶️ **Lecture plein écran** à la télécommande (OK = pause, ±10 s, ±60 s)
 - 🔌 **Connexion unique respectée** : passer en arrière-plan coupe le flux, LumeTV peut
@@ -30,7 +31,7 @@ Version actuelle : **1.0.0**.
 - Import des identifiants depuis LumeTV (sans ressaisie)
 - Reprise de lecture (« Reprendre à … »)
 - Affiches et synopsis enrichis (TMDB)
-- Une app dédiée aux séries : **LumeSeries**
+- Les séries ont leur app : [**LumeSeries**](https://github.com/Celtiore/lume-series)
 
 ## 🔧 Installation
 
