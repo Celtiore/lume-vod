@@ -13,7 +13,7 @@ même clé de signature, deux apps côte à côte sur le launcher.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeVOD-x.y.z.apk`.
 
-Version actuelle : **1.0.2**.
+Version actuelle : **1.0.3**.
 
 ## ✨ Fonctionnalités (v1.0.1)
 
@@ -25,6 +25,7 @@ Version actuelle : **1.0.2**.
 - 🔌 **Connexion unique respectée** : passer en arrière-plan coupe le flux, LumeTV peut
   reprendre le direct (et inversement)
 - 🔄 **Mises à jour intégrées** (depuis les Releases GitHub)
+- Import des identifiants depuis LumeTV en un OK (1.0.3), comptes multiples et Réglages (Comptes, À propos, vérification manuelle des mises à jour).
 
 ## 🗺️ Prochainement
 
