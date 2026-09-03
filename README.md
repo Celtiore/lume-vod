@@ -13,7 +13,7 @@ même clé de signature, deux apps côte à côte sur le launcher.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeVOD-x.y.z.apk`.
 
-Version actuelle : **1.0.1**.
+Version actuelle : **1.0.2**.
 
 ## ✨ Fonctionnalités (v1.0.1)
 
