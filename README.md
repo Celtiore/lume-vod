@@ -13,7 +13,7 @@ même clé de signature, deux apps côte à côte sur le launcher.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeVOD-x.y.z.apk`.
 
-Version actuelle : **1.0.3**.
+Version actuelle : **1.0.4**.
 
 ## ✨ Fonctionnalités (v1.0.1)
 
@@ -26,11 +26,11 @@ Version actuelle : **1.0.3**.
   reprendre le direct (et inversement)
 - 🔄 **Mises à jour intégrées** (depuis les Releases GitHub)
 - Import des identifiants depuis LumeTV en un OK (1.0.3), comptes multiples et Réglages (Comptes, À propos, vérification manuelle des mises à jour).
+- ⏯️ **Reprise de lecture** (1.0.4) : « Reprendre à … » et « Lire depuis le début » sur la fiche, badge « Vu », reprise après Home ou redémarrage, catégorie « ▶ En cours », « Effacer l'historique de lecture » dans Réglages › Lecture.
+- 🚪 **Confirmation de sortie** (1.0.4) : Retour depuis le catalogue demande « Quitter LumeVOD ? ».
 
 ## 🗺️ Prochainement
 
-- Import des identifiants depuis LumeTV (sans ressaisie)
-- Reprise de lecture (« Reprendre à … »)
 - Affiches et synopsis enrichis (TMDB)
 - Les séries ont leur app : [**LumeSeries**](https://github.com/Celtiore/lume-series)
 
