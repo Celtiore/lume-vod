@@ -13,7 +13,7 @@ même clé de signature, deux apps côte à côte sur le launcher.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeVOD-x.y.z.apk`.
 
-Version actuelle : **1.0.4**.
+Version actuelle : **1.0.5**.
 
 ## ✨ Fonctionnalités (v1.0.1)
 
@@ -28,6 +28,8 @@ Version actuelle : **1.0.4**.
 - Import des identifiants depuis LumeTV en un OK (1.0.3), comptes multiples et Réglages (Comptes, À propos, vérification manuelle des mises à jour).
 - ⏯️ **Reprise de lecture** (1.0.4) : « Reprendre à … » et « Lire depuis le début » sur la fiche, badge « Vu », reprise après Home ou redémarrage, catégorie « ▶ En cours », « Effacer l'historique de lecture » dans Réglages › Lecture.
 - 🚪 **Confirmation de sortie** (1.0.4) : Retour depuis le catalogue demande « Quitter LumeVOD ? ».
+- 🚫 **Catégories masquées** (1.0.5) : les catégories adultes sont masquées par défaut (détection sur le nom), appui long sur une catégorie pour la masquer, Réglages › Catégories (interrupteur, révélation temporaire, liste des masquées, code PIN optionnel).
+- ⏳ **Import complet suivi** (1.0.5) : « Toutes les catégories » affiche les phases et la durée de l'import, sans afficher l'ancien contenu entre-temps.
 
 ## 🗺️ Prochainement
 
